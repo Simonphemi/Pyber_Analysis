@@ -5,7 +5,8 @@ create a summary DataFrame of the ride-sharing data by city type. Then, using Pa
 By City type, we can notice the more urban cities have the most traffic for the use of pyber to be implemented. However in the rural and suburban areas there is a spike in the average fare per ride and also the average fare by driver, this could have been caused by scarcity of drivers willing to operate within these citys as opposed to the urban cities.  
 <img width="588" alt="Screen Shot 2021-04-04 at 2 41 02 PM" src="https://user-images.githubusercontent.com/79813670/113518652-a6e95380-9555-11eb-9003-6b3afd070060.png">
 
-![Pyber_fare_summary](https://user-images.githubusercontent.com/79813670/113518665-c1233180-9555-11eb-8bb6-49c67975ce18.png)
+<img width="422" alt="Pyber_fare_summary" src="https://user-images.githubusercontent.com/79813670/113519296-465c1580-9559-11eb-972a-e74d333e050f.png">
+
 
 
 ## Summary
